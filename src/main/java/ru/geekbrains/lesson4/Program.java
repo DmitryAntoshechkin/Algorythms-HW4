@@ -24,7 +24,7 @@ public class Program {
         hashMap.put ("+7911566887799", "Семен");
         hashMap.put ("+6577987779", "Jonny");
 
-        System.out.println(hashMap);
+        System.out.println(hashMap); // Перебираем всю структуру и формируем строковый вид из значений
 
 
 
